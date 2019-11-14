@@ -37,7 +37,7 @@ namespace Final_Project
         private void Submit_Click(object sender, EventArgs e)
         {
             string[] name = {};
-            string[] job = {};
+            string[] job = {}; //Test
             name[counter] = textBox1.Text;
             if (radioButton1.Checked)
             {
